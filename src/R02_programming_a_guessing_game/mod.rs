@@ -1,0 +1,4 @@
+pub mod R02_processing_a_guess;
+pub mod R03_generating_a_secret_number;
+pub mod R04_comparing_the_guess_to_the_secret_number;
+pub mod R05_allowing_multiple_guesses_with_looping;
