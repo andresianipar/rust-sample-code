@@ -73,7 +73,7 @@ pub fn f2_2_2() {
 
     let a: [i32; 5] = [3; 5];
 
-    print!("{:?}\n", a);
+    println!("{:?}", a);
 }
 
 // Compound Types > Accessing Array Elements
